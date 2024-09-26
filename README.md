@@ -1,4 +1,9 @@
-This app is developed for the UX and SPP courses at DTU.
+This app is developed for the following courses at DTU:
+- User Experience and Mobile Application Development (62550): https://kurser.dtu.dk/course/2022-2023/62550
+- Software Processes and Patterns (02369): https://kurser.dtu.dk/course/2022-2023/02369
+
+The project report is available in the repository:
+- Report: SPP_final_repport.pdf
 
 # Installation guide
 
