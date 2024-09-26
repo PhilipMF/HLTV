@@ -1,4 +1,3 @@
-# HLTV 2 Electric boogaloo
 This app is developed for the UX and SPP courses at DTU.
 
 # Installation guide
